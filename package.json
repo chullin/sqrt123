@@ -3,9 +3,22 @@
   "version": "0.0.2",
   "description": "This is a sqrt",
   "main": "<sqrt.js>",
+  "devDependencies": {
+    "mocha": "^3.1.0"
+  },
   "scripts": {
     "test": "mocha"
   },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chullin/sqrt123"
+  },
+  "keywords": [
+    "sqrt",
+    "sqrt123"
+  ],
   "author": "chullin",
   "license": "ISC"
+  "homepage": "https://github.com/chullin"
+  }
 }
